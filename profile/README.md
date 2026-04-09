@@ -1,4 +1,14 @@
-# EITT — IT Training & Certifications
+<p align="center">
+  <img src="https://eitt.pl/images/logos/eitt-logo.webp" alt="EITT" width="200">
+</p>
+
+<h3 align="center">IT Training & Certifications</h3>
+
+<p align="center">
+  <a href="https://eitt.pl">eitt.pl</a> · <a href="https://eitt.academy/en/">eitt.academy</a>
+</p>
+
+---
 
 We help companies develop IT competencies of their teams. Our training programs are built by practitioners and designed to be applied the very next day at work.
 
